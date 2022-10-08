@@ -29,19 +29,19 @@ For the normal recording of all my progress in the development of various projec
 ## [Virtual school](https://github.com/Nytrock/Lyceum_PyQT5_Project)
 - Status: ✅ Completed
 - Date of creation: November 2021
-- Description: The first project created for Yandex.Lyceum. It was developed in Python using the PyQt5 library. It is a local application for Windows that parodies electronic diaries. The project was created to study the functionality of the PyQt5 library and is not of practical use
+- Description: The first project created for Yandex.Lyceum. It was developed in Python using the PyQt5 library. This is a local application for Windows that parodies electronic diaries. You can enter the application either as a student or as a teacher. An extensive database has been created for the project (attached to the project), many of the parameters of which can be changed directly in the application. The project was created to study the functionality of the PyQt5 library and has no practical application
 - Plans: I am not going to change my projects for Yandex.Lyceum in any way, not counting the structure. The app will stay that way forever
 
 ## [Tetris](https://github.com/Nytrock/Lyceum_Pygame_Project)
 - Status: ✅ Completed
 - Date of creation: December 2021 - January 2022
-- Description: Already the second project created for Yandex.Lyceum, this time was created in a team. In fact, there was no team, I did almost all the work myself. The project itself is a Tetris built with Pygame. Do not add, do not subtract, just classic Tetris
+- Description: already the second project created for Yandex.Lyceum, this time was created in a team. In fact, there was no team, I did almost all the work myself. The project itself is a Tetris built with Pygame. Do not add, do not take away, just a classic Tetris with classic controls, classic gameplay and mechanics, like a high score
 - Plans: I am not going to change my projects for Yandex.Lyceum in any case, not counting the structure. The app will stay that way forever
 
 ## [Personal page](https://github.com/Nytrock/Lyceum_Plus_Plus_Start_Project)
 - Status: ✅ Completed
 - Date of creation: February 2022
-- Description: A site created as a creative project for admission to Yandex.Lyceum++ (now called "Yandex Academy Intensives") in the "Development on Django" direction. Created in a week of hard work. As a result, I got almost the maximum score for it and passed the selection
+- Description: The site was created as a creative project for admission to Yandex.Lyceum ++ (now "Yandex Academy Intensives") in the direction "Development on Django". Created in a week of hard work. It is a set of own praise (so that the chance of acceptance to the courses is higher) and a simple design, but with chic flexibility. As a result, I scored almost the maximum score for him and passed the selection.
 - Plans: I want to leave the site in the form in which I submitted it for verification
 
 ## [Newgramm](https://github.com/Nytrock/Lyceum_Plus_Plus_Start_Project)
@@ -53,7 +53,7 @@ For the normal recording of all my progress in the development of various projec
 ## [NotYandex engine](https://github.com/Nytrock/not_yandex-engine)
 - Status: ✅ Completed
 - Date of creation: April 18-20, 2022
-- Description: A search engine created in just 3 days in the process of participating in the VI Open IT Championship. There were three of us in the team: me, [Danila Yashin](https://github.com/zibestr) and [Maxim Pinzhura](https://github.com/MrProperixaOriginal). Each of us contributed to the creation of the project. I did frontend. As a result, we became winners in our category (by the way, it was the most difficult one offered at the beginning)
+- Description: A search engine created in just 3 days in the process of participating in the VI Open IT Championship. The application consists of two parts: search engine and visual design. The search server allows you to search for the desired pages of a given site by the entered request, and the visual design allows you to conveniently display the results. Such a system allows you to use only a search server for embedding in any site. There were three of us in the team: me, [Danila Yashin](https://github.com/zibestr) and [Maxim Pinzhura](https://github.com/MrProperixaOriginal). Each of us contributed to the creation of the project. I made the frontend. As a result, we became winners in our category (by the way, it was the most difficult of those offered at the beginning)
 - Plans: Obviously, the very essence of the project lies in the shortness of the time frame for its creation, so there should not be any updates after those three days
 
 ## [Tredio](https://github.com/Nytrock/YlPlusProject)
