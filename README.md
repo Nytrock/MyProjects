@@ -47,8 +47,8 @@ For the normal recording of all my progress in the development of various projec
 ## [Newgramm](https://github.com/Nytrock/Lyceum_Plus_Plus_Start_Project)
 - Status: ✅ Completed
 - Date of creation: February-April 2022
-- Description: -
-- Plans: -
+- Description: Final project for Yandex.Lyceum. In theory, it was supposed to be developed in a team, in fact only I did it. It is an "analogue" of Instagram. It's funny that the idea to create such a site came even before the blocking of Instagram in Russia. The site has a truncated functionality of its inspirer, allowing you to upload your photos, like and comment on others, people search systems, recommendations and subscriptions are implemented. It is also possible to work with the site through the API
+- Plans: Like the previous two, the project will not be updated in any way. But no one is stopping me from doing a remake of Newgram on Django. When exactly? Don't know
 
 ## [NotYandex engine](https://github.com/Nytrock/not_yandex-engine)
 - Status: ✅ Completed
@@ -59,23 +59,23 @@ For the normal recording of all my progress in the development of various projec
 ## [Tredio](https://github.com/Nytrock/YlPlusProject)
 - Status: ✅ Completed
 - Date of creation: May 2022
-- Description: -
-- Plans: -
+- Description: Final project for Yandex.Lyceum++. It was created within a month by 3 people: me, Daniil Sidoruk and Artyom Goredeev (the latter was our team leader). The project itself is a poster for theaters with the ability to search for people to go to the theater together. Yes, this is literally a dating site for theater goers. At the same time, users can add information about theaters or new productions themselves (while passing moderation, of course)
+- Plans: Although not all planned ideas were implemented before the deadline, but now that the team has already disbanded, it is no longer possible to update the site. Moreover, the site stopped being hosted due to the disinterest of one of the participants (it was he who hosted it). But I still consider the project more complete, because it fulfilled its main task - to be the final project for the courses
 
 ## [Image in image](https://github.com/Nytrock/Image_In_Image)
 - Status: ⬆ Update is possible
 - Date of creation: September 2022
-- Description: -
-- Plans: -
+- Description: A program that allows you to create images from ordinary, boring images, consisting of thousands of other images. What for? I don't know, sounds and looks pretty cool, and there is minimal customization, so it's still a good project
+- Plans: Possibility to create an image from completely different images? Building a website for easy image creation? Maybe
 
 ## [Video in video](https://github.com/Nytrock/Video_In_Video)
 - Status: ⬆ Update is possible
 - Date of creation: September 2022
-- Description: -
-- Plans: -
+- Description: Okay, yes, this project has evolved from the previous project and allows you to create videos that consist of videos. Sounds even crazier than pictures of pictures, I get it. True, due to the limited capacity of most devices (and for the sake of optimization), the result does not look so impressive. But this is still an interesting example of the work of human imagination and available technologies
+- Plans: Make it possible to make a video with n-fold zoom to see all the "madness" closer. Well, a full-fledged website would also be nice to do.
 
 ## [VOB to mp4](https://github.com/Nytrock/Vob_To_Mp4)
 - Status: ⬆ Update is possible
 - Date of creation: September 2022
-- Description: -
-- Plans: -
+- Description: A simple converter from the VOB format used for DVD videos to the more modern mp4 format. It is possible to convert multiple videos in one run of the program. The program itself was created out of personal necessity due to the lack of normal free alternatives
+- Plans: Make a website so that the program becomes more popular and useful for other people, that's all
