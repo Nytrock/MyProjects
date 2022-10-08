@@ -23,8 +23,8 @@ For the normal recording of all my progress in the development of various projec
 ## [Portal Dimensions](https://github.com/Nytrock/Portal_Dimensions)
 - Status: ⏳ Under development
 - Date of creation: September 2021 - today's time
-- Description: -
-- Plans: -
+- Description: My second game based on the mechanics of teleports in 2D perspective. In general, almost like in the Portal, but in 2D and from a third party. The genre is a 2D puzzle platformer in pixel art. Although I rely on the Portal series of games, this game will have a lot of original ideas and moves, from the plot to the gameplay mechanics. The game will have interesting characters, exciting puzzles, good visuals and a lot of side mechanics that won't let you get bored. The game is still in development as I don't have enough time to fully start working on it
+- Plans: Releasing an alpha version by the New Year is all I want right now
 
 ## [Virtual school](https://github.com/Nytrock/Lyceum_PyQT5_Project)
 - Status: ✅ Completed
