@@ -44,11 +44,11 @@ For the normal recording of all my progress in the development of various projec
 - Description: The site was created as a creative project for admission to Yandex.Lyceum ++ (now "Yandex Academy Intensives") in the direction "Development on Django". Created in a week of hard work. It is a set of own praise (so that the chance of acceptance to the courses is higher) and a simple design, but with chic flexibility. As a result, I scored almost the maximum score for him and passed the selection.
 - Plans: I want to leave the site in the form in which I submitted it for verification
 
-## [Newgramm](https://github.com/Nytrock/Lyceum_Plus_Plus_Start_Project)
+## [Newgramm](https://github.com/Nytrock/Newgramm)
 - Status: ✅ Completed
 - Date of creation: February-April 2022
 - Description: Final project for Yandex.Lyceum. In theory, it was supposed to be developed in a team, in fact only I did it. It is an "analogue" of Instagram. It's funny that the idea to create such a site came even before the blocking of Instagram in Russia. The site has a truncated functionality of its inspirer, allowing you to upload your photos, like and comment on others, people search systems, recommendations and subscriptions are implemented. It is also possible to work with the site through the API
-- Plans: Like the previous two, the project will not be updated in any way. But no one is stopping me from doing a remake of Newgram on Django. When exactly? Don't know
+- Plans: Like the previous two, the project will not be updated in any way. But no one is stopping me from doing a remake of Newgramm on Django. When exactly? Don't know
 
 ## [NotYandex engine](https://github.com/Nytrock/not_yandex-engine)
 - Status: ✅ Completed
