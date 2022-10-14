@@ -59,7 +59,7 @@ For the normal recording of all my progress in the development of various projec
 ## [Tredio](https://github.com/Nytrock/YlPlusProject)
 - Status: ✅ Completed
 - Date of creation: May 2022
-- Description: Final project for Yandex.Lyceum++. It was created within a month by 3 people: me, Daniil Sidoruk and Artyom Goredeev (the latter was our team leader). The project itself is a poster for theaters with the ability to search for people to go to the theater together. Yes, this is literally a dating site for theater goers. At the same time, users can add information about theaters or new productions themselves (while passing moderation, of course)
+- Description: Final project for Yandex.Lyceum++. It was created within a month by 3 people: me, [Daniil Sidoruk](https://github.com/PatriotRossii) and [Artyom Goredeev](https://github.com/Jubastik) (the latter was our team leader). The project itself is a poster for theaters with the ability to search for people to go to the theater together. Yes, this is literally a dating site for theater goers. At the same time, users can add information about theaters or new productions themselves (while passing moderation, of course)
 - Plans: Although not all planned ideas were implemented before the deadline, but now that the team has already disbanded, it is no longer possible to update the site. Moreover, the site stopped being hosted due to the disinterest of one of the participants (it was he who hosted it). But I still consider the project more complete, because it fulfilled its main task - to be the final project for the courses
 
 ## [Image in image](https://github.com/Nytrock/Image_In_Image)
@@ -72,7 +72,7 @@ For the normal recording of all my progress in the development of various projec
 - Status: ⬆ Update is possible
 - Date of creation: September 2022
 - Description: Okay, yes, this project has evolved from the previous project and allows you to create videos that consist of videos. Sounds even crazier than pictures of pictures, I get it. True, due to the limited capacity of most devices (and for the sake of optimization), the result does not look so impressive. But this is still an interesting example of the work of human imagination and available technologies
-- Plans: Make it possible to make a video with n-fold zoom to see all the "madness" closer. Well, a full-fledged website would also be nice to do.
+- Plans: Make it possible to make a video with n-fold zoom to see all the "madness" closer. Well, a full-fledged website would also be nice to do
 
 ## [VOB to mp4](https://github.com/Nytrock/Vob_To_Mp4)
 - Status: ⬆ Update is possible
