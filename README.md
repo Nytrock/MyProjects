@@ -9,7 +9,7 @@ For the normal recording of all my progress in the development of various projec
 1. ⏳ Under development - the project is being developed at the moment
 1. ⏸ On pause - the project is not fully completed, but for some reason work on it is not being carried out
 1. ❌ Closed - the project is abandoned halfway through and there are no plans to return to it (highly undesirable status)
-- Date of creation: when the project was created
+- Date of creation: when the project was created (Does not include the development period of the project as many of them I do intermittently)
 - Description: a brief description of the essence of the project
 - Plans: what do I plan to do with this project
 
@@ -22,7 +22,7 @@ For the normal recording of all my progress in the development of various projec
 
 ## [Portal Dimensions](https://github.com/Nytrock/Portal_Dimensions)
 - Status: ⏳ Under development
-- Date of creation: September 2021 - today's time
+- Date of creation: September 2021
 - Description: My second game based on the mechanics of teleports in 2D perspective. In general, almost like in the Portal, but in 2D and from a third party. The genre is a 2D puzzle platformer in pixel art. Although I rely on the Portal series of games, this game will have a lot of original ideas and moves, from the plot to the gameplay mechanics. The game will have interesting characters, exciting puzzles, good visuals and a lot of side mechanics that won't let you get bored. The game is still in development as I don't have enough time to fully start working on it
 - Plans: Releasing an alpha version by the New Year is all I want right now
 
@@ -34,7 +34,7 @@ For the normal recording of all my progress in the development of various projec
 
 ## [Tetris](https://github.com/Nytrock/Lyceum_Pygame_Project)
 - Status: ✅ Completed
-- Date of creation: December 2021 - January 2022
+- Date of creation: December 2021
 - Description: already the second project created for Yandex.Lyceum, this time was created in a team. In fact, there was no team, I did almost all the work myself. The project itself is a Tetris built with Pygame. Do not add, do not take away, just a classic Tetris with classic controls, classic gameplay and mechanics, like a high score
 - Plans: I am not going to change my projects for Yandex.Lyceum in any case, not counting the structure. The app will stay that way forever
 
@@ -46,13 +46,13 @@ For the normal recording of all my progress in the development of various projec
 
 ## [Newgramm](https://github.com/Nytrock/Newgramm)
 - Status: ✅ Completed
-- Date of creation: February-April 2022
+- Date of creation: February 2022
 - Description: Final project for Yandex.Lyceum. In theory, it was supposed to be developed in a team, in fact only I did it. It is an "analogue" of Instagram. It's funny that the idea to create such a site came even before the blocking of Instagram in Russia. The site has a truncated functionality of its inspirer, allowing you to upload your photos, like and comment on others, people search systems, recommendations and subscriptions are implemented. It is also possible to work with the site through the API
 - Plans: Like the previous two, the project will not be updated in any way. But no one is stopping me from doing a remake of Newgramm on Django. When exactly? Don't know
 
 ## [NotYandex engine](https://github.com/Nytrock/not_yandex-engine)
 - Status: ✅ Completed
-- Date of creation: April 18-20, 2022
+- Date of creation: April 2022
 - Description: A search engine created in just 3 days in the process of participating in the VI Open IT Championship. The application consists of two parts: search engine and visual design. The search server allows you to search for the desired pages of a given site by the entered request, and the visual design allows you to conveniently display the results. Such a system allows you to use only a search server for embedding in any site. There were three of us in the team: me, [Danila Yashin](https://github.com/zibestr) and [Maxim Pinzhura](https://github.com/MrProperixaOriginal). Each of us contributed to the creation of the project. I made the frontend. As a result, we became winners in our category (by the way, it was the most difficult of those offered at the beginning)
 - Plans: Obviously, the very essence of the project lies in the shortness of the time frame for its creation, so there should not be any updates after those three days
 
