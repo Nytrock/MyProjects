@@ -24,7 +24,7 @@ For the normal recording of all my progress in the development of various projec
 - Status: ⏳ Under development
 - Date of creation: September 2021
 - Description: My second game based on the mechanics of teleports in 2D perspective. In general, almost like in the Portal, but in 2D and from a third party. The genre is a 2D puzzle platformer in pixel art. Although I rely on the Portal series of games, this game will have a lot of original ideas and moves, from the plot to the gameplay mechanics. The game will have interesting characters, exciting puzzles, good visuals and a lot of side mechanics that won't let you get bored. The game is still in development as I don't have enough time to fully start working on it
-- Plans: Releasing an alpha version by the New Year is all I want right now
+- Plans: Now I'm working on the alpha version of the game, but it's going pretty slowly, because I'm actively preparing for the exam
 
 ## [Virtual school](https://github.com/Nytrock/Lyceum_PyQT5_Project)
 - Status: ✅ Completed
@@ -72,7 +72,7 @@ For the normal recording of all my progress in the development of various projec
 - Status: ⬆ Update is possible
 - Date of creation: September 2022
 - Description: Okay, yes, this project has evolved from the previous project and allows you to create videos that consist of videos. Sounds even crazier than pictures of pictures, I get it. True, due to the limited capacity of most devices (and for the sake of optimization), the result does not look so impressive. But this is still an interesting example of the work of human imagination and available technologies
-- Plans: Make it possible to make a video with n-fold zoom to see all the "madness" closer. Well, a full-fledged website would also be nice to do
+- Plans: Make it possible to make a video with n-fold zoom. Ability to lower the quality of the original video for greater visibility of its components. Full-fledged website would also be nice to do
 
 ## [VOB to mp4](https://github.com/Nytrock/Vob_To_Mp4)
 - Status: ⬆ Update is possible
