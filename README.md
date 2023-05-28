@@ -18,13 +18,13 @@ For the normal recording of all my progress in the development of various projec
 - Status: ⬆ Update is possible
 - Date of creation: Summer 2021
 - Description: My first game on Unity and therefore the first big project. It is a mixture of a farming simulator and a cafe simulator, made in the style of pixel art. Initially, the project was supposed to also include a platformer genre with RPG elements, but due to tight deadlines and unprofessionalism, this was cut out. As a test of the pen, it will do
-- Plans: The game still has a lot of bugs and untapped potential and I want to update the game someday
+- Plans: Now I'm updating graphics and balance, and fixing bugs, as without it
 
 ## [Portal Dimensions](https://github.com/Nytrock/Portal_Dimensions)
 - Status: ⏳ Under development
 - Date of creation: September 2021
 - Description: My second game based on the mechanics of teleports in 2D perspective. In general, almost like in the Portal, but in 2D and from a third party. The genre is a 2D puzzle platformer in pixel art. Although I rely on the Portal series of games, this game will have a lot of original ideas and moves, from the plot to the gameplay mechanics. The game will have interesting characters, exciting puzzles, good visuals and a lot of side mechanics that won't let you get bored. The game is still in development as I don't have enough time to fully start working on it
-- Plans: Now I'm working on the alpha version of the game, but it's going pretty slowly, because I'm actively preparing for the exam
+- Plans: Right now I'm redoing the technical part of the game for more efficient development in the future, further I will redo the graphics and improve the gameplay
 
 ## [Virtual school](https://github.com/Nytrock/Lyceum_PyQT5_Project)
 - Status: ✅ Completed
