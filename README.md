@@ -5,9 +5,9 @@ For the normal recording of all my progress in the development of various projec
 ## Project name (link to the project repository)
 - Status: There are several types of project statuses:
 1. ✅ Completed - the project is completely finished and brought to a logical point, there will be no updates
-1. ⬆ Update is possible - the project is completely finished, but there are ideas for possible updates
+1. ⬆ Update is possible - the project is completed, but there are ideas for possible updates
 1. ⏳ Under development - the project is being developed at the moment
-1. ⏸ On pause - the project is not fully completed, but for some reason work on it is not being carried out
+1. ⏸ On pause - the project is incomplete, but for some reason, work on it is not being carried out
 1. ❌ Closed - the project is abandoned halfway through and there are no plans to return to it (highly undesirable status)
 - Date of creation: when the project was created (Does not include the development period of the project as many of them I do intermittently)
 - Description: a brief description of the essence of the project
@@ -66,16 +66,16 @@ For the normal recording of all my progress in the development of various projec
 - Status: ⬆ Update is possible
 - Date of creation: September 2022
 - Description: A program that allows you to create images from ordinary, boring images, consisting of thousands of other images. What for? I don't know, sounds and looks pretty cool, and there is minimal customization, so it's still a good project
-- Plans: Possibility to create an image from completely different images? Building a website for easy image creation? Maybe
+- Plans: It would be nice to create a website for the program so that everyone can use it conveniently. But since my knowledge in creating websites is still very limited, there will be no such update in the near future.
 
 ## [Video in video](https://github.com/Nytrock/Video_In_Video)
 - Status: ⬆ Update is possible
 - Date of creation: September 2022
-- Description: Okay, yes, this project has evolved from the previous project and allows you to create videos that consist of videos. Sounds even crazier than pictures of pictures, I get it. True, due to the limited capacity of most devices (and for the sake of optimization), the result does not look so impressive. But this is still an interesting example of the work of human imagination and available technologies
-- Plans: Make it possible to make a video with n-fold zoom. Ability to lower the quality of the original video for greater visibility of its components. Full-fledged website would also be nice to do
+- Description: Okay, yes, this project has evolved from the previous project and allows you to create videos that consist of videos. Sounds even crazier than pictures of pictures, I get it. True, due to the limited capabilities of most devices (and for the sake of optimization), the result does not look so impressive without a strong reduction in the quality of the original video. But this is still an interesting example of the work of human imagination and available technologies
+- Plans: It would be nice to create a website for the program so that everyone can use it conveniently. But since my knowledge in creating websites is still very limited, there will be no such update in the near future.
 
 ## [VOB to mp4](https://github.com/Nytrock/Vob_To_Mp4)
 - Status: ⬆ Update is possible
 - Date of creation: September 2022
 - Description: A simple converter from the VOB format used for DVD videos to the more modern mp4 format. It is possible to convert multiple videos in one run of the program. The program itself was created out of personal necessity due to the lack of normal free alternatives
-- Plans: Make a website so that the program becomes more popular and useful for other people, that's all
+- Plans: Make a website so that the program becomes more popular and useful for other people, however, since my knowledge in creating websites is still very limited, there will be no such update in the near future
