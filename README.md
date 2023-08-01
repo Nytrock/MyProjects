@@ -56,7 +56,7 @@ For the normal recording of all my progress in the development of various projec
 - Description: A search engine created in just 3 days in the process of participating in the VI Open IT Championship. The application consists of two parts: search engine and visual design. The search server allows you to search for the desired pages of a given site by the entered request, and the visual design allows you to conveniently display the results. Such a system allows you to use only a search server for embedding in any site. There were three of us in the team: me, [Danila Yashin](https://github.com/zibestr) and [Maxim Pinzhura](https://github.com/MrProperixaOriginal). Each of us contributed to the creation of the project. I made the frontend. As a result, we became winners in our category (by the way, it was the most difficult of those offered at the beginning)
 - Plans: Obviously, the very essence of the project lies in the shortness of the time frame for its creation, so there should not be any updates after those three days
 
-## [Tredio](https://github.com/Nytrock/YlPlusProject)
+## [Tredio](https://github.com/Nytrock/Tredio)
 - Status: ✅ Completed
 - Date of creation: May 2022
 - Description: Final project for Yandex.Lyceum++. It was created within a month by 3 people: me, [Daniil Sidoruk](https://github.com/PatriotRossii) and [Artyom Goredeev](https://github.com/Jubastik) (the latter was our team leader). The project itself is a poster for theaters with the ability to search for people to go to the theater together. Yes, this is literally a dating site for theater goers. At the same time, users can add information about theaters or new productions themselves (while passing moderation, of course)
