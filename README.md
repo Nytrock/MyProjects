@@ -14,7 +14,7 @@ For the normal recording of all my progress in the development of various projec
 - Plans: what do I plan to do with this project
 
 # List of projects
-## [Madness cooking](https://github.com/Nytrock/Madness_Cooking_EN)
+## [Madness cooking](https://github.com/Nytrock/Madness_Cooking)
 - Status: ⏳ Under development 
 - Date of creation: Summer 2021
 - Description: My first game on Unity and therefore the first big project. It is a mixture of a farming simulator and a cafe simulator, made in the style of pixel art. Initially, the project was supposed to also include a platformer genre with RPG elements, but due to tight deadlines and unprofessionalism, this was cut out. As a test of the pen, it will do
