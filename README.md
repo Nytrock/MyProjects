@@ -1,5 +1,5 @@
 # Introduction
-For the normal recording of all my progress in the development of various projects and the growth of me as a programmer, this repository was created. It contains brief information and links to the repositories of all projects that I have ever done. All projects are arranged in chronological order relative to the start of work on them, this repository will be updated periodically.
+For the normal recording of all my progress in the development of various projects and the growth of me as a programmer, this repository was created. It contains brief information and links to the repositories of all projects that I have ever done. All projects are divided into categories and arranged in chronological order relative to the start of work on them, this repository will be updated periodically. I also have repositories with lists of [books read](https://github.com/Nytrock/Books) and [courses taken](https://github.com/Nytrock/Courses).
 
 # An example of a project description
 ## Project name (link to the project repository)
@@ -13,7 +13,9 @@ For the normal recording of all my progress in the development of various projec
 - Description: a brief description of the essence of the project
 - Plans: what do I plan to do with this project
 
-# List of projects
+# Main projects
+Large projects that take the most time
+
 ## [Madness cooking](https://github.com/Nytrock/Madness_Cooking)
 - Status: ⏳ Under development 
 - Date of creation: Summer 2021
@@ -25,6 +27,32 @@ For the normal recording of all my progress in the development of various projec
 - Date of creation: September 2021
 - Description: My second game based on the mechanics of teleports in 2D perspective. In general, almost like in the Portal, but in 2D and from a third party. The genre is a 2D puzzle platformer in pixel art. Although I rely on the Portal series of games, this game will have a lot of original ideas and moves, from the plot to the gameplay mechanics. The game will have interesting characters, exciting puzzles, good visuals and a lot of side mechanics that won't let you get bored. The game is still in development as I don't have enough time to fully start working on it
 - Plans: Right now I'm redoing the technical part of the game for more efficient development in the future, further I will redo the graphics and improve the gameplay
+
+
+# Secondary projects
+Small projects created for fun or for my needs
+
+## [Image in image](https://github.com/Nytrock/Image_In_Image)
+- Status: ⬆ Update is possible
+- Date of creation: September 2022
+- Description: A program that allows you to create images from ordinary, boring images, consisting of thousands of other images. What for? I don't know, sounds and looks pretty cool, and there is minimal customization, so it's still a good project
+- Plans: It would be nice to create a website for the program so that everyone can use it conveniently. But since my knowledge in creating websites is still very limited, there will be no such update in the near future.
+
+## [Video in video](https://github.com/Nytrock/Video_In_Video)
+- Status: ⬆ Update is possible
+- Date of creation: September 2022
+- Description: Okay, yes, this project has evolved from the previous project and allows you to create videos that consist of videos. Sounds even crazier than pictures of pictures, I get it. True, due to the limited capabilities of most devices (and for the sake of optimization), the result does not look so impressive without a strong reduction in the quality of the original video. But this is still an interesting example of the work of human imagination and available technologies
+- Plans: It would be nice to create a website for the program so that everyone can use it conveniently. But since my knowledge in creating websites is still very limited, there will be no such update in the near future.
+
+## [VOB to mp4](https://github.com/Nytrock/Vob_To_Mp4)
+- Status: ⬆ Update is possible
+- Date of creation: September 2022
+- Description: A simple converter from the VOB format used for DVD videos to the more modern mp4 format. It is possible to convert multiple videos in one run of the program. The program itself was created out of personal necessity due to the lack of normal free alternatives
+- Plans: Make a website so that the program becomes more popular and useful for other people, however, since my knowledge in creating websites is still very limited, there will be no such update in the near future
+
+
+# Educational projects
+Projects created during various courses
 
 ## [Virtual school](https://github.com/Nytrock/Lyceum_PyQT5_Project)
 - Status: ✅ Completed
@@ -61,21 +89,3 @@ For the normal recording of all my progress in the development of various projec
 - Date of creation: May 2022
 - Description: Final project for Yandex.Lyceum++. It was created within a month by 3 people: me, [Daniil Sidoruk](https://github.com/PatriotRossii) and [Artyom Goredeev](https://github.com/Jubastik) (the latter was our team leader). The project itself is a poster for theaters with the ability to search for people to go to the theater together. Yes, this is literally a dating site for theater goers. At the same time, users can add information about theaters or new productions themselves (while passing moderation, of course)
 - Plans: Although not all planned ideas were implemented before the deadline, but now that the team has already disbanded, it is no longer possible to update the site. Moreover, the site stopped being hosted due to the disinterest of one of the participants (it was he who hosted it). But I still consider the project more complete, because it fulfilled its main task - to be the final project for the courses
-
-## [Image in image](https://github.com/Nytrock/Image_In_Image)
-- Status: ⬆ Update is possible
-- Date of creation: September 2022
-- Description: A program that allows you to create images from ordinary, boring images, consisting of thousands of other images. What for? I don't know, sounds and looks pretty cool, and there is minimal customization, so it's still a good project
-- Plans: It would be nice to create a website for the program so that everyone can use it conveniently. But since my knowledge in creating websites is still very limited, there will be no such update in the near future.
-
-## [Video in video](https://github.com/Nytrock/Video_In_Video)
-- Status: ⬆ Update is possible
-- Date of creation: September 2022
-- Description: Okay, yes, this project has evolved from the previous project and allows you to create videos that consist of videos. Sounds even crazier than pictures of pictures, I get it. True, due to the limited capabilities of most devices (and for the sake of optimization), the result does not look so impressive without a strong reduction in the quality of the original video. But this is still an interesting example of the work of human imagination and available technologies
-- Plans: It would be nice to create a website for the program so that everyone can use it conveniently. But since my knowledge in creating websites is still very limited, there will be no such update in the near future.
-
-## [VOB to mp4](https://github.com/Nytrock/Vob_To_Mp4)
-- Status: ⬆ Update is possible
-- Date of creation: September 2022
-- Description: A simple converter from the VOB format used for DVD videos to the more modern mp4 format. It is possible to convert multiple videos in one run of the program. The program itself was created out of personal necessity due to the lack of normal free alternatives
-- Plans: Make a website so that the program becomes more popular and useful for other people, however, since my knowledge in creating websites is still very limited, there will be no such update in the near future
