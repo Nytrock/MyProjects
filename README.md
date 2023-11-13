@@ -16,13 +16,13 @@ For the normal recording of all my progress in the development of various projec
 # Main projects
 Large projects that take the most time
 
-## [Madness cooking](https://github.com/Nytrock/Madness_Cooking)
+## [Madness cooking](https://github.com/Nytrock/MadnessCooking)
 - Status: ⏳ Under development 
 - Date of creation: Summer 2021
 - Description: My first game on Unity and therefore the first big project. It is a mixture of a farming simulator and a cafe simulator, made in the style of pixel art. Initially, the project was supposed to also include a platformer genre with RPG elements, but due to tight deadlines and unprofessionalism, this was cut out. As a test of the pen, it will do
 - Plans: Now I'm updating graphics and balance, and fixing bugs, as without it
 
-## [Portal Dimensions](https://github.com/Nytrock/Portal_Dimensions)
+## [Portal Dimensions](https://github.com/Nytrock/PortalDimensions)
 - Status: ⏳ Under development
 - Date of creation: September 2021
 - Description: My second game based on the mechanics of teleports in 2D perspective. In general, almost like in the Portal, but in 2D and from a third party. The genre is a 2D puzzle platformer in pixel art. Although I rely on the Portal series of games, this game will have a lot of original ideas and moves, from the plot to the gameplay mechanics. The game will have interesting characters, exciting puzzles, good visuals and a lot of side mechanics that won't let you get bored. The game is still in development as I don't have enough time to fully start working on it
@@ -32,13 +32,13 @@ Large projects that take the most time
 # Secondary projects
 Small projects created for fun or for my needs
 
-## [Image in image](https://github.com/Nytrock/Image_In_Image)
+## [Image in image](https://github.com/Nytrock/ImageInImage)
 - Status: ⬆ Update is possible
 - Date of creation: September 2022
 - Description: A program that allows you to create images from ordinary, boring images, consisting of thousands of other images. What for? I don't know, sounds and looks pretty cool, and there is minimal customization, so it's still a good project
 - Plans: It would be nice to create a website for the program so that everyone can use it conveniently. But since my knowledge in creating websites is still very limited, there will be no such update in the near future.
 
-## [Video in video](https://github.com/Nytrock/Video_In_Video)
+## [Video in video](https://github.com/Nytrock/VideoInVideo)
 - Status: ⬆ Update is possible
 - Date of creation: September 2022
 - Description: Okay, yes, this project has evolved from the previous project and allows you to create videos that consist of videos. Sounds even crazier than pictures of pictures, I get it. True, due to the limited capabilities of most devices (and for the sake of optimization), the result does not look so impressive without a strong reduction in the quality of the original video. But this is still an interesting example of the work of human imagination and available technologies
@@ -59,19 +59,19 @@ Small projects created for fun or for my needs
 # Educational projects
 Projects created during various courses
 
-## [Virtual school](https://github.com/Nytrock/Lyceum_PyQT5_Project)
+## [Virtual school](https://github.com/Nytrock/LyceumPyQT5Project)
 - Status: ✅ Completed
 - Date of creation: November 2021
 - Description: The first project created for Yandex.Lyceum. It was developed in Python using the PyQt5 library. This is a local application for Windows that parodies electronic diaries. You can enter the application either as a student or as a teacher. An extensive database has been created for the project (attached to the project), many of the parameters of which can be changed directly in the application. The project was created to study the functionality of the PyQt5 library and has no practical application
 - Plans: I am not going to change my projects for Yandex.Lyceum in any way, not counting the structure. The app will stay that way forever
 
-## [Tetris](https://github.com/Nytrock/Lyceum_Pygame_Project)
+## [Tetris](https://github.com/Nytrock/LyceumPygameProject)
 - Status: ✅ Completed
 - Date of creation: December 2021
 - Description: already the second project created for Yandex.Lyceum, this time was created in a team. In fact, there was no team, I did almost all the work myself. The project itself is a Tetris built with Pygame. Do not add, do not take away, just a classic Tetris with classic controls, classic gameplay and mechanics, like a high score
 - Plans: I am not going to change my projects for Yandex.Lyceum in any case, not counting the structure. The app will stay that way forever
 
-## [Personal page](https://github.com/Nytrock/Lyceum_Plus_Plus_Start_Project)
+## [Personal page](https://github.com/Nytrock/DjangoStartProject)
 - Status: ✅ Completed
 - Date of creation: February 2022
 - Description: The site was created as a creative project for admission to Yandex.Lyceum ++ (now "Yandex Academy Intensives") in the direction "Development on Django". Created in a week of hard work. It is a set of own praise (so that the chance of acceptance to the courses is higher) and a simple design, but with chic flexibility. As a result, I scored almost the maximum score for him and passed the selection.
@@ -83,7 +83,7 @@ Projects created during various courses
 - Description: Final project for Yandex.Lyceum. In theory, it was supposed to be developed in a team, in fact only I did it. It is an "analogue" of Instagram. It's funny that the idea to create such a site came even before the blocking of Instagram in Russia. The site has a truncated functionality of its inspirer, allowing you to upload your photos, like and comment on others, people search systems, recommendations and subscriptions are implemented. It is also possible to work with the site through the API
 - Plans: Like the previous two, the project will not be updated in any way. But no one is stopping me from doing a remake of Newgramm on Django. When exactly? Don't know
 
-## [NotYandex engine](https://github.com/Nytrock/not_yandex-engine)
+## [NotYandex engine](https://github.com/Nytrock/NotYandexEngine)
 - Status: ✅ Completed
 - Date of creation: April 2022
 - Description: A search engine created in just 3 days in the process of participating in the VI Open IT Championship. The application consists of two parts: search engine and visual design. The search server allows you to search for the desired pages of a given site by the entered request, and the visual design allows you to conveniently display the results. Such a system allows you to use only a search server for embedding in any site. There were three of us in the team: me, [Danila Yashin](https://github.com/zibestr) and [Maxim Pinzhura](https://github.com/MrProperixaOriginal). Each of us contributed to the creation of the project. I made the frontend. As a result, we became winners in our category (by the way, it was the most difficult of those offered at the beginning)
