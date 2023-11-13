@@ -50,6 +50,11 @@ Small projects created for fun or for my needs
 - Description: A simple converter from the VOB format used for DVD videos to the more modern mp4 format. It is possible to convert multiple videos in one run of the program. The program itself was created out of personal necessity due to the lack of normal free alternatives
 - Plans: Make a website so that the program becomes more popular and useful for other people, however, since my knowledge in creating websites is still very limited, there will be no such update in the near future
 
+## [Vk to Telegram reposter](https://github.com/Nytrock/VkToTelegramReposter)
+- Status: ✅ Completed
+- Date of creation: November 2023
+- Description: A program that allows you to constantly send new posts from the public to a channel in Telegram. It was created due to the reluctance to use ready-made bots due to their slowness and due to the need to write a scientific article for the university
+- Plans: The program cannot be improved in any way, so the project is considered completed
 
 # Educational projects
 Projects created during various courses
