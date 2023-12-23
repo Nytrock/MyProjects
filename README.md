@@ -23,10 +23,10 @@ Large projects that take the most time
 - Plans: Now I'm updating graphics and balance, and fixing bugs, as without it
 
 ## [Portal Dimensions](https://github.com/Nytrock/PortalDimensions)
-- Status: ⏳ Under development
+- Status: ⏸ On pause
 - Date of creation: September 2021
 - Description: My second game based on the mechanics of teleports in 2D perspective. In general, almost like in the Portal, but in 2D and from a third party. The genre is a 2D puzzle platformer in pixel art. Although I rely on the Portal series of games, this game will have a lot of original ideas and moves, from the plot to the gameplay mechanics. The game will have interesting characters, exciting puzzles, good visuals and a lot of side mechanics that won't let you get bored. The game is still in development as I don't have enough time to fully start working on it
-- Plans: Right now I'm redoing the technical part of the game for more efficient development in the future, further I will redo the graphics and improve the gameplay
+- Plans: The ambitions of this game are too huge. In fact, this is my magnum opus. Therefore, in order to avoid wasting time endlessly reworking the same thing, I decided to abandon this project for an indefinite period in order to gain experience in developing smaller games. Someday I will return to it.
 
 
 # Secondary projects
