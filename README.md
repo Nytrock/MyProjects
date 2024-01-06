@@ -13,14 +13,14 @@ For the normal recording of all my progress in the development of various projec
 - Description: a brief description of the essence of the project
 - Plans: what do I plan to do with this project
 
-# Main projects
-Large projects that take the most time
+# Games
+Main activity
 
 ## [Madness cooking](https://github.com/Nytrock/MadnessCooking)
 - Status: ⏳ Under development 
 - Date of creation: Summer 2021
 - Description: My first game on Unity and therefore the first big project. It is a mixture of a farming simulator and a cafe simulator, made in the style of pixel art. Initially, the project was supposed to also include a platformer genre with RPG elements, but due to tight deadlines and unprofessionalism, this was cut out. As a test of the pen, it will do
-- Plans: Now I'm updating graphics and balance, and fixing bugs, as without it
+- Plans: Now I'm completely rewriting the game from scratch
 
 ## [Portal Dimensions](https://github.com/Nytrock/PortalDimensions)
 - Status: ⏸ On pause
@@ -33,16 +33,16 @@ Large projects that take the most time
 Small projects created for fun or for my needs
 
 ## [Image in image](https://github.com/Nytrock/ImageInImage)
-- Status: ⬆ Update is possible
+- Status: ✅ Completed
 - Date of creation: September 2022
 - Description: A program that allows you to create images from ordinary, boring images, consisting of thousands of other images. What for? I don't know, sounds and looks pretty cool, and there is minimal customization, so it's still a good project
-- Plans: It would be nice to create a website for the program so that everyone can use it conveniently. But since my knowledge in creating websites is still very limited, there will be no such update in the near future.
+- Plans: This app is a joke, there will be no updates
 
 ## [Video in video](https://github.com/Nytrock/VideoInVideo)
-- Status: ⬆ Update is possible
+- Status: ✅ Completed
 - Date of creation: September 2022
 - Description: Okay, yes, this project has evolved from the previous project and allows you to create videos that consist of videos. Sounds even crazier than pictures of pictures, I get it. True, due to the limited capabilities of most devices (and for the sake of optimization), the result does not look so impressive without a strong reduction in the quality of the original video. But this is still an interesting example of the work of human imagination and available technologies
-- Plans: It would be nice to create a website for the program so that everyone can use it conveniently. But since my knowledge in creating websites is still very limited, there will be no such update in the near future.
+- Plans: This app is a joke, there will be no updates
 
 ## [VOB to mp4](https://github.com/Nytrock/Vob_To_Mp4)
 - Status: ⬆ Update is possible
