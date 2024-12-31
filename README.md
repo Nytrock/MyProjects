@@ -17,16 +17,16 @@ For the normal recording of all my progress in the development of various projec
 Main activity
 
 ## [Madness cooking](https://github.com/Nytrock/MadnessCooking)
-- Status: ⏳ Under development 
-- Date of creation: Summer 2021
-- Description: My first game on Unity and therefore the first big project. It is a mixture of a farming simulator and a cafe simulator, made in the style of pixel art. Initially, the project was supposed to also include a platformer genre with RPG elements, but due to tight deadlines and unprofessionalism, this was cut out. As a test of the pen, it will do
-- Plans: Now I'm completely rewriting the game from scratch
+- Status: ⬆ Update is possible
+- Date of creation: January 2024
+- Description: Game that combines cafe, kitchen, and farm simulators with crazy humor and charming pixel art. Get ready for well-thought-out mechanics, hundreds of customers, dozens of dishes and upgrades (and just as many puns!). Grow your cafe to gain recognition in this bizarre world and maybe even... take it over? WHAT?!
+- Plans: Release a couple of small updates
 
 ## [Portal Dimensions](https://github.com/Nytrock/PortalDimensions)
-- Status: ⏸ On pause
+- Status: ❌ Closed
 - Date of creation: September 2021
-- Description: My second game based on the mechanics of teleports in 2D perspective. In general, almost like in the Portal, but in 2D and from a third party. The genre is a 2D puzzle platformer in pixel art. Although I rely on the Portal series of games, this game will have a lot of original ideas and moves, from the plot to the gameplay mechanics. The game will have interesting characters, exciting puzzles, good visuals and a lot of side mechanics that won't let you get bored. The game is still in development as I don't have enough time to fully start working on it
-- Plans: The ambitions of this game are too huge. In fact, this is my magnum opus. Therefore, in order to avoid wasting time endlessly reworking the same thing, I decided to abandon this project for an indefinite period in order to gain experience in developing smaller games. Someday I will return to it.
+- Description: My second game is based on teleport mechanics in a 2D perspective. Basically, it's almost like Portal, but in 2D and from a third-person view. The genre is a 2D puzzle-platformer with pixel art. The game will feature interesting characters, engaging puzzles, great visuals, and plenty of side mechanics to keep you entertained
+- Plans: The game was canceled due to overly ambitious goals
 
 
 # Secondary projects
@@ -51,46 +51,7 @@ Small projects created for fun or for my needs
 - Plans: Make a website so that the program becomes more popular and useful for other people, however, since my knowledge in creating websites is still very limited, there will be no such update in the near future
 
 ## [Vk to Telegram reposter](https://github.com/Nytrock/VkToTelegramReposter)
-- Status: ✅ Completed
+- Status: ⬆ Update is possible
 - Date of creation: November 2023
 - Description: A program that allows you to constantly send new posts from the public to a channel in Telegram. It was created due to the reluctance to use ready-made bots due to their slowness and due to the need to write a scientific article for the university
-- Plans: The program cannot be improved in any way, so the project is considered completed
-
-# Educational projects
-Projects created during various courses
-
-## [Virtual school](https://github.com/Nytrock/LyceumPyQT5Project)
-- Status: ✅ Completed
-- Date of creation: November 2021
-- Description: The first project created for Yandex.Lyceum. It was developed in Python using the PyQt5 library. This is a local application for Windows that parodies electronic diaries. You can enter the application either as a student or as a teacher. An extensive database has been created for the project (attached to the project), many of the parameters of which can be changed directly in the application. The project was created to study the functionality of the PyQt5 library and has no practical application
-- Plans: I am not going to change my projects for Yandex.Lyceum in any way, not counting the structure. The app will stay that way forever
-
-## [Tetris](https://github.com/Nytrock/LyceumPygameProject)
-- Status: ✅ Completed
-- Date of creation: December 2021
-- Description: already the second project created for Yandex.Lyceum, this time was created in a team. In fact, there was no team, I did almost all the work myself. The project itself is a Tetris built with Pygame. Do not add, do not take away, just a classic Tetris with classic controls, classic gameplay and mechanics, like a high score
-- Plans: I am not going to change my projects for Yandex.Lyceum in any case, not counting the structure. The app will stay that way forever
-
-## [Personal page](https://github.com/Nytrock/DjangoStartProject)
-- Status: ✅ Completed
-- Date of creation: February 2022
-- Description: The site was created as a creative project for admission to Yandex.Lyceum ++ (now "Yandex Academy Intensives") in the direction "Development on Django". Created in a week of hard work. It is a set of own praise (so that the chance of acceptance to the courses is higher) and a simple design, but with chic flexibility. As a result, I scored almost the maximum score for him and passed the selection.
-- Plans: I want to leave the site in the form in which I submitted it for verification
-
-## [Newgramm](https://github.com/Nytrock/Newgramm)
-- Status: ✅ Completed
-- Date of creation: February 2022
-- Description: Final project for Yandex.Lyceum. In theory, it was supposed to be developed in a team, in fact only I did it. It is an "analogue" of Instagram. It's funny that the idea to create such a site came even before the blocking of Instagram in Russia. The site has a truncated functionality of its inspirer, allowing you to upload your photos, like and comment on others, people search systems, recommendations and subscriptions are implemented. It is also possible to work with the site through the API
-- Plans: Like the previous two, the project will not be updated in any way. But no one is stopping me from doing a remake of Newgramm on Django. When exactly? Don't know
-
-## [NotYandex engine](https://github.com/Nytrock/NotYandexEngine)
-- Status: ✅ Completed
-- Date of creation: April 2022
-- Description: A search engine created in just 3 days in the process of participating in the VI Open IT Championship. The application consists of two parts: search engine and visual design. The search server allows you to search for the desired pages of a given site by the entered request, and the visual design allows you to conveniently display the results. Such a system allows you to use only a search server for embedding in any site. There were three of us in the team: me, [Danila Yashin](https://github.com/zibestr) and [Maxim Pinzhura](https://github.com/MrProperixaOriginal). Each of us contributed to the creation of the project. I made the frontend. As a result, we became winners in our category (by the way, it was the most difficult of those offered at the beginning)
-- Plans: Obviously, the very essence of the project lies in the shortness of the time frame for its creation, so there should not be any updates after those three days
-
-## [Tredio](https://github.com/Nytrock/Tredio)
-- Status: ✅ Completed
-- Date of creation: May 2022
-- Description: Final project for Yandex.Lyceum++. It was created within a month by 3 people: me, [Daniil Sidoruk](https://github.com/PatriotRossii) and [Artyom Goredeev](https://github.com/Jubastik) (the latter was our team leader). The project itself is a poster for theaters with the ability to search for people to go to the theater together. Yes, this is literally a dating site for theater goers. At the same time, users can add information about theaters or new productions themselves (while passing moderation, of course)
-- Plans: Although not all planned ideas were implemented before the deadline, but now that the team has already disbanded, it is no longer possible to update the site. Moreover, the site stopped being hosted due to the disinterest of one of the participants (it was he who hosted it). But I still consider the project more complete, because it fulfilled its main task - to be the final project for the courses
+- Plans: Make a couple of small improvements for convenience
